@@ -3,7 +3,7 @@ A light Electron client for Kirka.io. Forked from [Juice Client](https://juice.i
 
 # Download
 - [Discord](https://discord.gg/dZhCMAQRxP)
-- Website Coming Soon
+- [Downloads](https://github.com/timokoz/faint/releases/tag/client)
 
 Windows only. More platforms to come.
 
@@ -11,7 +11,6 @@ Windows only. More platforms to come.
 - Uncapped FPS
 - Discord Rich Presence
 - Join Game Button
-- more to come :)
 
 ## Hotkeys
 | Hotkey | Description |
